@@ -1,21 +1,22 @@
 # Hello, I'm MANIKANDAN R
 <a href="https://linkedin.com/in/manikandanr9607"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm a fresh Bachelor of Engineering graduate in Electronics and Communication Engineering from the class of 2022. My fascination with the intricate world of cybersecurity led me down a path of self-education and practical training through various online platforms, notably TryHackMe.
 
-Over the past two years, I have dedicated myself to mastering the skills necessary for a Security Operations Center (SOC) Analyst. My journey on TryHackMe has not only honed my technical skills but also earned me several certifications, reflecting my commitment and passion for the field.
+## Objective
+
+Over the past two years, I have dedicated myself to mastering the skills necessary for a Security Operations Center (SOC) Analyst. My journey on TryHackMe has not only honed my technical skills but also earned me several certifications, reflecting my commitment and passion for the field.I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 This portfolio is designed to showcase my projects, certifications, and the hands-on experience I've gained in cybersecurity. I am eager to leverage my academic background and practical skills in a professional setting to contribute to safeguarding digital assets and infrastructures.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Education
+
+- **Bachelor of Engineering in Electronics and Communication Engineering**  
+  [DHANALAKSHMI SRINIVASAN ENGINEERING COLLEGE], [PERAMBALUR]  
+  Class of 2022
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,6 +26,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 ## Key Skills
 
 - **Security Monitoring:** Skilled in using tools like Splunk, ELK Stack, and SIEM systems for monitoring and analyzing security events.
@@ -35,7 +37,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -59,7 +60,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png" />
 <img src="https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc" />
@@ -72,14 +72,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - SOC Automation Project
 
-- # Welcome to My GitHub Portfolio
-
-## About Me
-Hello! I'm [Your Name], a fresh Bachelor of Engineering graduate in Electronics and Communication Engineering from the class of 2022. My fascination with the intricate world of cybersecurity led me down a path of self-education and practical training through various online platforms, notably TryHackMe.
-
-Over the past two years, I have dedicated myself to mastering the skills necessary for a Security Operations Center (SOC) Analyst. My journey on TryHackMe has not only honed my technical skills but also earned me several certifications, reflecting my commitment and passion for the field.
-
-This portfolio is designed to showcase my projects, certifications, and the hands-on experience I've gained in cybersecurity. I am eager to leverage my academic background and practical skills in a professional setting to contribute to safeguarding digital assets and infrastructures.
 
 ## Key Skills
 
@@ -89,11 +81,6 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 - **Problem Solving:** Excellent analytical and troubleshooting skills, with a focus on quickly identifying and mitigating security risks.
 - **Continuous Learning:** Commitment to ongoing personal and professional development in the dynamic field of cybersecurity.
 
-## Education
-
-- **Bachelor of Engineering in Electronics and Communication Engineering**  
-  [Your University Name], [Location]  
-  Class of 2022
 
 ## Certifications and Achievements on TryHackMe
 
@@ -101,24 +88,10 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 - **[Name of Certification]**: Completed advanced scenarios focusing on [topic].
 - **Top Performer**: Achieved high ranks through consistent performance and solving complex challenges.
 
-## Projects
-
-### Project 1: Network Security Monitoring Setup
-- **Objective:** Designed and implemented a network security monitoring solution using open-source tools.
-- **Technologies Used:** Security Onion, Snort, Suricata.
-- **Outcome:** Enhanced network visibility and security, effectively detecting and mitigating potential threats.
-
-### Project 2: Automated Incident Response
-- **Objective:** Developed scripts to automate initial incident response processes for common security events.
-- **Technologies Used:** Python, Bash.
-- **Outcome:** Reduced response times by 50%, allowing for quicker mitigation and less manual intervention.
-
-_More projects showcasing your skills can be added here._
-
 ## Contact Information
 
 Feel free to connect with me for more information or potential job opportunities:
 
 - **Email:** [smartmani9607@gmail.com](mailto:your-email@example.com)
 - **LinkedIn:** [https://linkedin.com/in/manikandanr9607](your-linkedin-url)
-- **GitHub:** [your-github-username](https://github.com/your-github-username)
+- **GitHub:** [https://github.com/smartmani9607/MANIKANDAN-R](https://github.com/your-github-username)
