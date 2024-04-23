@@ -40,7 +40,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-file:///C:/Users/ELCOT/Downloads/1%20qw4GYZmkj9jykrwmEHHISQ.webp" />
+    <img src="https://img.shields.io/badge/-https://github.com/smartmani9607/MANIKANDAN-R/blob/main/1%20qw4GYZmkj9jykrwmEHHISQ.webp" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-snort-data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD" />
 </div>
