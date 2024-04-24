@@ -104,5 +104,5 @@ The Advent of Cyber challenge was not just about tackling daily tasks, but also 
 Feel free to connect with me for more information or potential job opportunities:
 
 - **Email:** [smartmani9607@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [https://linkedin.com/in/manikandanr9607](your-linkedin-url)
+- **LinkedIn:** [https://linkedin.com/in/manikandanr9607](https://linkedin.com/in/manikandanr9607)
 - **GitHub:** [https://github.com/smartmani9607/MANIKANDAN-R](https://github.com/your-github-username)
