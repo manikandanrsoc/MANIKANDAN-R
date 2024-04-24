@@ -46,7 +46,6 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-https://github.com/smartmani9607/MANIKANDAN-R/blob/main/1%20qw4GYZmkj9jykrwmEHHISQ.webp" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-snort-data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD" />
 </div>
@@ -64,6 +63,28 @@ This portfolio is designed to showcase my projects, certifications, and the hand
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## TryHackMe Advent of Cyber 2023 Participation
+
+In December 2023, I participated in the [TryHackMe Advent of Cyber](https://tryhackme.com) event, a 24-day intensive cybersecurity challenge. This challenge was an excellent opportunity to deepen my skills across a wide range of cybersecurity domains.
+
+### Achievements
+- **Winner of a 3-month TryHackMe Premium Voucher**: Recognized for outstanding performance among participants.
+- **Completed 24 Daily Challenges**: Each challenge focused on a different aspect of cybersecurity, from theoretical concepts to hands-on tasks.
+
+### Skills Developed
+- **Machine Learning & AI in Security**: Applied machine learning techniques to detect malicious activities.
+- **Log Analysis**: Mastered the art of dissecting and understanding logs for security insights.
+- **Brute-Forcing & Reverse Engineering**: Demonstrated capability in breaking encryption and analyzing software.
+- **Memory & Disk Forensics**: Learned techniques in analyzing both volatile and non-volatile memory.
+- **Malware Analysis & SQL Injection**: Gained hands-on experience in identifying and mitigating malware and database vulnerabilities.
+- **Advanced Topics**: Dived deep into Active Directory, Defence in depth, Intrusion detection, and more.
+
+### Reflections
+The Advent of Cyber challenge was not just about tackling daily tasks, but also about integrating comprehensive security practices into a broader understanding of IT infrastructure and cybersecurity. It was immensely rewarding to push the boundaries of what I could achieve in such a condensed timeframe.
+
+![Certificate of Completion](URL_of_your_certificate_image_here)
+
+
 ## Certifications
 <div>
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png" />
@@ -71,7 +92,6 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GBQRURDNLE.png" />
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HY6FSW3BHF.png" />
 <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G7EHKYFCJU.png" />
-<img src="" />
 </div>
 
 ## Projects
