@@ -29,11 +29,16 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 
 ## Key Skills
 
+- **Cybersecurity Fundamentals:** Strong understanding of security principles, threats, vulnerabilities, and incident response.
 - **Security Monitoring:** Skilled in using tools like Splunk, ELK Stack, and SIEM systems for monitoring and analyzing security events.
 - **Incident Response:** Capable of responding to security breaches and other cyber incidents following established protocols.
 - **Threat Intelligence:** Understanding of threat landscapes and ability to utilize threat intelligence to enhance security measures.
 - **Scripting:** Proficient in scripting languages such as Python and PowerShell for automating tasks and analyzing data.
-- **Networking:** Strong foundation in network protocols, firewalls, and VPN configurations.
+- **Networking:** Strong foundation in network protocols, firewalls, intrusion detection systems (IDS), and VPN configurations.
+- **Security Tools and Technologies:** Proficient in using popular tools like Wireshark, Nmap, and SIEM platforms to analyze and respond to security incidents.
+- **Network Security:** Knowledge of network protocols, intrusion detection systems (IDS), and firewall configuration.
+- **Problem Solving:** Excellent analytical and troubleshooting skills, with a focus on quickly identifying and mitigating security risks.
+- **Continuous Learning:** Commitment to ongoing personal and professional development in the dynamic field of cybersecurity.
 
 
 ## Tools
@@ -71,22 +76,6 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 
 ## Projects
 - SOC Automation Project
-
-
-## Key Skills
-
-- **Cybersecurity Fundamentals:** Strong understanding of security principles, threats, vulnerabilities, and incident response.
-- **Security Tools and Technologies:** Proficient in using popular tools like Wireshark, Nmap, and SIEM platforms to analyze and respond to security incidents.
-- **Network Security:** Knowledge of network protocols, intrusion detection systems (IDS), and firewall configuration.
-- **Problem Solving:** Excellent analytical and troubleshooting skills, with a focus on quickly identifying and mitigating security risks.
-- **Continuous Learning:** Commitment to ongoing personal and professional development in the dynamic field of cybersecurity.
-
-
-## Certifications and Achievements on TryHackMe
-
-- **[Name of Certification]**: Demonstrated proficiency in [specific area or tool].
-- **[Name of Certification]**: Completed advanced scenarios focusing on [topic].
-- **Top Performer**: Achieved high ranks through consistent performance and solving complex challenges.
 
 ## Contact Information
 
