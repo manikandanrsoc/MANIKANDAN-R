@@ -82,23 +82,19 @@ In December 2023, I participated in the [TryHackMe Advent of Cyber](https://tryh
 ### Reflections
 The Advent of Cyber challenge was not just about tackling daily tasks, but also about integrating comprehensive security practices into a broader understanding of IT infrastructure and cybersecurity. It was immensely rewarding to push the boundaries of what I could achieve in such a condensed timeframe.
 
-![Certificate of Completion](https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc)
+[Certificate of Completion](https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc)
+[3 month Tryhackme's Premium Voucher](https://github.com/smartmani9607/my-certifications/blob/main/Gmail%20-%20You've%20won%20a%20prize%20from%20Advent%20of%20Cyber!%20%F0%9F%8E%84.pdf)
 
 
 ## Certifications
 
 [SOC Analyst L1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png)
-[Certificate Name](link-to-certificate-file)
-[Certificate Name](link-to-certificate-file)
-[Certificate Name](link-to-certificate-file)
+[SOC Analyst Foundation](https://github.com/smartmani9607/my-certifications/blob/main/Screenshot%202024-04-24%20at%2013-23-42%20MANIKANDAN%20R%20-%201682430233351.png?raw=true)
+[Jr Penetration Tester Learning Path](https://media.licdn.com/dms/image/sync/D5627AQHQ1hmSerX4iA/articleshare-shrink_800/0/1713491106342?e=1714550400&v=beta&t=YF-Aw3xvSlA5zfro-qBkzQoOI13oxhGLsKrfTDakEqc)
+[Web Fundamentals Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HY6FSW3BHF.png)
+[Pre Security Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G7EHKYFCJU.png)
+[Crash Course Python](https://coursera.org/verify/GWKRLW7P36WS)
 
-<div>
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SKFF1EI52V.png" />
-<img src="https://media.licdn.com/dms/image/D5622AQHwTtejr2Gvvg/feedshare-shrink_800/0/1703876306777?e=1717027200&v=beta&t=eiXQ8B0jIP8ygEagOCqotqJkiwEmlbGIHkheWbt6jhc" />
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GBQRURDNLE.png" />
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HY6FSW3BHF.png" />
-<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-G7EHKYFCJU.png" />
-</div>
 
 ## Projects
 - SOC Automation Project
