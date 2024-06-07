@@ -97,7 +97,8 @@ The Advent of Cyber challenge was not just about tackling daily tasks, but also 
 
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/smartmani9607/SOC-Automation-Project/edit/main/README.md">SOC Automation Project</a>
+- <a href="https://github.com/smartmani9607/Active-Directory-Project/blob/main/README.md">Active Directory Project</a>
 
 ## Contact Information
 
