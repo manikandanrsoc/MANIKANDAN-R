@@ -20,12 +20,15 @@ This portfolio is designed to showcase my projects, certifications, and the hand
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/smartmani9607/SOC-Automation-Project">SOC Automation Lab</a>|
+| Event Logging and Monitoring         | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
+| IT Administration | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
+| IT Active Directory Configuration | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
+| Security Testing and Telemetry Analysis | <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
+| Splunk Administration and Querying |  <a href="https://github.com/smartmani9607/Active-Directory-Project">Active Directory</a>|
 
 ## Key Skills
 
